@@ -1,0 +1,12 @@
+name: regionaleconomicdashboard
+title: regionaleconomicdashboard
+username:
+account: szymkowskidev
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2247662
+bundleId: 3610359
+url: https://szymkowskidev.shinyapps.io/regionaleconomicdashboard/
+when: 1599651878.85012
+asMultiple: FALSE
+asStatic: FALSE
